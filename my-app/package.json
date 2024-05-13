@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^5.0.8",
     "@nextui-org/navbar": "^2.0.30",
     "@nextui-org/system": "^2.1.2",
     "@nextui-org/theme": "^2.2.3",
